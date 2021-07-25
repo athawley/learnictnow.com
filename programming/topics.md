@@ -1,6 +1,6 @@
 # Introduction
 Below are topics that are covered in (nearly) all programming languages.
-How they are implemented will differe depending on the programming language.
+How they are implemented will differ depending on the programming language.
 
 ## Topics
 - Computational Constructs
