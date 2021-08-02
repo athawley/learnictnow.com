@@ -32,7 +32,7 @@ How they are implemented will differ depending on the programming language.
 #### String
 #### Integer
 #### Float (Decimal)
-#### Booleam
+#### Boolean
 ### Input
 ### Selection (If Else Statements)
 ### Iteration / Loops (While, For)
